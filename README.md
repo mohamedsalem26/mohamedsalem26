@@ -86,6 +86,18 @@ I turn messy data into clear answers, clean dashboards and stories people can ac
 
 </details>
 
+<details open>
+<summary>:rocket: Projects</summary>
+
+* [BankMisr](https://github.com/mohamedsalem26/BankMisr): End-to-end banking analytics for Banque Misr. A SQL Server database (branches, customers, accounts, loans, transactions) with analytical views feeding an interactive Excel dashboard. Covers deposits, transaction channels, branch performance and loan portfolio risk across 5 Egyptian cities.
+* [Sales-and-Operations-PowerBI-Dashboard](https://github.com/mohamedsalem26/Sales-and-Operations-PowerBI-Dashboard): Power BI dashboard that tracks sales performance, financial metrics, inventory, purchasing, shipping cost and lead time in one view.
+* [SupplyChain](https://github.com/mohamedsalem26/SupplyChain): Interactive Power BI sales analysis dashboard with dynamic KPIs and slicers, showing sales across customer demographics, time of day, departments and commodities.
+* [Udemy](https://github.com/mohamedsalem26/Udemy): 4-page Power BI dashboard on Udemy course-catalog data (Landing, Overview, Course Performance, Publication Analysis), built with DAX measures, KPI cards and cross-filtering slicers.
+* [Study-Performance](https://github.com/mohamedsalem26/Study-Performance): Power BI dashboard on 1,000 students, exploring how gender, ethnicity group, parental education and test prep relate to math, reading and writing scores.
+* [Portfolio](https://mohamedsalem26.github.io/Portfolio/): My portfolio website. [Source code](https://github.com/mohamedsalem26/Portfolio).
+
+</details>
+
 <details>
 <summary>:trophy: GitHub Stats</summary>
 
